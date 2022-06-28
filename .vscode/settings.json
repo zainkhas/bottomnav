@@ -1,3 +1,6 @@
 {
-  "flow.pathToFlow": ""
+  "flow.pathToFlow": "",
+  "yaml.schemas": {
+    "https://json.schemastore.org/yamllint.json": "file:///Volumes/WebHRData/Practice/bottomnav/.github/workflows/build.yml"
+  }
 }
